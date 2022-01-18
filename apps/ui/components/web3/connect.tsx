@@ -64,7 +64,7 @@ function ConnectButton() {
             <MenuList>
               <MenuItem
                 onClick={() => {
-                  deactivate();
+                  deactivat
                 }}
               >
                 Disconnect
